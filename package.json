@@ -1,0 +1,20 @@
+{
+  "name": "cpprocess",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Lucas-Dsra/cpProcess#readme",
+  "bugs": {
+    "url": "https://github.com/Lucas-Dsra/cpProcess/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-Dsra/cpProcess.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
